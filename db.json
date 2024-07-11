@@ -32,6 +32,17 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 652115006,
+      "category": "SE",
+      "title": "Student",
+      "description": "I STUDY FOR A JOB, I DO JOB FOR MONEY, I USE MONEY ALOT = I NEED MONEY",
+      "location": "CMU",
+      "date": "July 11, 2024",
+      "time": "23:25",
+      "petsAllowed": true,
+      "organizer": "Tawan"
     }
   ]
 }
